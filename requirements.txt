@@ -1,0 +1,36 @@
+streamlit
+# -----------------------------------------------------------
+# HOW TO RUN THE PROJECT
+# -----------------------------------------------------------
+
+# Step 1:
+# Open the project folder in VS Code
+
+# Step 2:
+# Go to "app.py"
+
+# Step 3:
+# Right-click on "app.py"
+
+# Step 4:
+# Click on:
+# "Open in Integrated Terminal"
+
+# Step 5:
+# In the terminal, type the following command:
+
+# streamlit run app.py
+
+# Step 6:
+# Press ENTER
+# Your Streamlit app will open automatically in the browser
+
+# -----------------------------------------------------------
+# HOW TO STOP THE APP
+# -----------------------------------------------------------
+
+# Press:
+# CTRL + C
+
+# in the terminal to stop the Streamlit server
+# -----------------------------------------------------------
